@@ -10,4 +10,5 @@
 - Python 3.x
 
 ## How to Run
-file:///C:/Users/ADMIN/Downloads/Task%201.png
+
+<img width="470" height="129" alt="Task 1" src="https://github.com/user-attachments/assets/6a5eba45-ab36-402a-b7b5-0afd56ab4e80" />
